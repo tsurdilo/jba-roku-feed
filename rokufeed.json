@@ -22,7 +22,7 @@
       "id": "jbavideo1",
       "title": "React frontend for jBPM Business Applications",
       "shortDescription": "jBPM Business Application integration with React frontend",
-      "thumbnail": "https://github.com/tsurdilo/jba-roku-feed/raw/master/thumbnails/jbaVide1.png",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide1.png",
       "genres": [
         "technology"
       ],
@@ -40,7 +40,7 @@
         "duration": 877,
         "videos": [
           {
-            "url": "https://github.com/tsurdilo/jba-roku-feed/raw/master/videos/jBPMBAReact.mp4",
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c38df9531c501.29371191_HD.mp4",
             "quality": "HD",
             "videoType": "MP4"
           }
