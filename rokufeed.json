@@ -1,0 +1,35 @@
+{
+  "providerName": "jBPM Team",
+  "lastUpdated": "2019-01-11T14:54:21Z",
+  "language": "en",
+  "categories": [
+  ],
+  "playlists": [
+    {
+      "name": "Featured Videos",
+      "itemIds": [
+        "jbaVide1"
+      ]
+    }
+  ],
+  "shortFormVideos": [
+    {
+      "id": "jbaVide1",
+      "title": "React frontend for jBPM Business Applications",
+      "content": {
+        "dateAdded": "2015-11-11T22:21:37+00:00",
+        "videos": [
+          {
+            "url": "https://example.org/cdn/videos/1509428502952",
+            "quality": "UHD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 877
+      },
+      "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+      "shortDescription": "jBPM Business Apps + React",
+      "releaseDate": "2019-01-08"
+    }
+  ]
+}
