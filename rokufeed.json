@@ -2,9 +2,16 @@
   "providerName": "jBPM Team",
   "language": "en-US",
   "lastUpdated": "2019-01-11T14:12:32.125Z",
+  "categories": [
+    {
+      "name": "jBPM Recommends",
+      "playlistName": "jBPM Business Application Videos",
+      "order": "manual"
+    }
+  ],
   "playlists": [
     {
-      "name": "Featured Videos",
+      "name": "jBPM Business Application Videos",
       "itemIds": [
         "jbavideo1"
       ]
@@ -34,7 +41,7 @@
         "duration": 877,
         "videos": [
           {
-            "url": "https://www.youtube.com/watch?v=D6T2IAD_YvM",
+            "url": "https://github.com/tsurdilo/jba-roku-feed/raw/master/videos/jBPMBAReact.mp4",
             "quality": "HD",
             "videoType": "MP4"
           }
