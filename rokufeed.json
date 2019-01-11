@@ -1,33 +1,45 @@
 {
-  "providerName": "jBPM Business Apps",
-  "lastUpdated": "2019-01-11T14:54:21Z",
-  "language": "en",
+  "providerName": "jBPM Team",
+  "language": "en-US",
+  "lastUpdated": "2019-01-11T14:12:32.125Z",
   "playlists": [
     {
       "name": "Featured Videos",
       "itemIds": [
-        "jbaVide1"
+        "jbavideo1"
       ]
     }
   ],
   "shortFormVideos": [
     {
-      "id": "jbaVide1",
+      "id": "jbavideo1",
       "title": "React frontend for jBPM Business Applications",
+      "shortDescription": "jBPM Business Application integration with React frontend",
+      "thumbnail": "https://github.com/tsurdilo/jba-roku-feed/raw/master/thumbnails/jbaVide1.png",
+      "genres": [
+        "technology",
+        "programming"
+      ],
+      "tags": [
+        "jbpm",
+        "react",
+        "javascript",
+        "business",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
       "content": {
-        "dateAdded": "2015-11-11T22:21:37+00:00",
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 877,
         "videos": [
           {
             "url": "https://www.youtube.com/watch?v=D6T2IAD_YvM",
             "quality": "HD",
             "videoType": "MP4"
           }
-        ],
-        "duration": 877
-      },
-      "thumbnail": "https://github.com/tsurdilo/jba-roku-feed/raw/master/thumbnails/jbaVide1.png",
-      "shortDescription": "jBPM Business Apps + React",
-      "releaseDate": "2019-01-08"
+        ]
+      }
     }
   ]
 }
