@@ -20,9 +20,9 @@
         "dateAdded": "2015-11-11T22:21:37+00:00",
         "videos": [
           {
-            "url": "https://example.org/cdn/videos/1509428502952",
-            "quality": "UHD",
-            "videoType": "HLS"
+            "url": "https://www.youtube.com/watch?v=D6T2IAD_YvM",
+            "quality": "HD",
+            "videoType": "MP4"
           }
         ],
         "duration": 877
