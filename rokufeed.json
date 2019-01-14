@@ -7,13 +7,31 @@
       "name": "jBPM Business Apps",
       "playlistName": "jBPM Business Application Videos",
       "order": "manual"
+    },
+    {
+      "name": "jBPM Workbench",
+      "playlistName": "jBPM General Videos",
+      "order": "manual"
     }
   ],
   "playlists": [
     {
       "name": "jBPM Business Application Videos",
       "itemIds": [
-        "jbavideo1"
+        "jbavideo1",
+        "jbavideo2",
+        "jbavideo3",
+        "jbavideo4",
+        "jbavideo5",
+        "jbavideo6",
+        "jbavideo7",
+        "jbavideo8"
+      ]
+    },
+    {
+      "name": "jBPM General Videos",
+      "itemIds": [
+        "jbavideo9"
       ]
     }
   ],
@@ -41,6 +59,246 @@
         "videos": [
           {
             "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c38df9531c501.29371191_HD.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jbavideo2",
+      "title": "jBPM Business Application and Okta SSO",
+      "shortDescription": "jBPM Business Application and Okta SSO",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide2.png",
+      "genres": [
+        "technology"
+      ],
+      "tags": [
+        "jbpm",
+        "okta",
+        "sso",
+        "javascript",
+        "business",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
+      "content": {
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 872,
+        "videos": [
+          {
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c3a0354ce16a5.53454486_HD.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jbavideo3",
+      "title": "Deploying jBPM Business Applications on Docker",
+      "shortDescription": "Deploying jBPM Business Applications on Docker",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide3.png",
+      "genres": [
+        "technology"
+      ],
+      "tags": [
+        "jbpm",
+        "okta",
+        "sso",
+        "javascript",
+        "business",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
+      "content": {
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 649,
+        "videos": [
+          {
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c3a037ebda092.50825141_HD.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jbavideo4",
+      "title": "jBPM Business Application Demo using Apache Kafka and WebSockets",
+      "shortDescription": "jBPM Business Application Demo using Apache Kafka and WebSockets",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide4.png",
+      "genres": [
+        "technology"
+      ],
+      "tags": [
+        "jbpm",
+        "kafka",
+        "websocket",
+        "javascript",
+        "business",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
+      "content": {
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 870,
+        "videos": [
+          {
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c3a03aee08783.64417180_HD.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jbavideo5",
+      "title": "Business Process Driven Web Terminal - jBPM Business Apps Demo",
+      "shortDescription": "Business Process Driven Web Terminal - jBPM Business Apps Demo",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide5.png",
+      "genres": [
+        "technology"
+      ],
+      "tags": [
+        "jbpm",
+        "terminal",
+        "websocket",
+        "javascript",
+        "business",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
+      "content": {
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 959,
+        "videos": [
+          {
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c3a03dc5473c6.78152867_HD.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jbavideo6",
+      "title": "jBPM Business Applications + IFTTT = Control everything!",
+      "shortDescription": "jBPM Business Applications + IFTTT = Control everything!",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide6.png",
+      "genres": [
+        "technology"
+      ],
+      "tags": [
+        "jbpm",
+        "ifttt",
+        "javascript",
+        "business",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
+      "content": {
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 1016,
+        "videos": [
+          {
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c3a041491c8b3.05021361_HD.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jbavideo7",
+      "title": "Building a cool dashboard super fast with jBPM business apps!",
+      "shortDescription": "Building a cool dashboard super fast with jBPM business apps!",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide7.png",
+      "genres": [
+        "technology"
+      ],
+      "tags": [
+        "jbpm",
+        "thymeleaf",
+        "dashboard",
+        "javascript",
+        "business",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
+      "content": {
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 1167,
+        "videos": [
+          {
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c3a042a531670.00068653_HD.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jbavideo8",
+      "title": "jBPM Business Application Demo - Easily build a cool League of Legends app with jBPM",
+      "shortDescription": "jBPM Business Application Demo - Easily build a cool League of Legends app with jBPM",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide8.png",
+      "genres": [
+        "technology"
+      ],
+      "tags": [
+        "jbpm",
+        "league",
+        "LOL",
+        "legends",
+        "javascript",
+        "business",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
+      "content": {
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 1528,
+        "videos": [
+          {
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c3a044467fb82.56390798_HD.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jbavideo9",
+      "title": "Service Task included in Business Central",
+      "shortDescription": "Service Task included in Business Central",
+      "thumbnail": "https://raw.githubusercontent.com/tsurdilo/jba-roku-feed/master/thumbnails/jbaVide9.png",
+      "genres": [
+        "technology"
+      ],
+      "tags": [
+        "jbpm",
+        "business",
+        "central",
+        "service",
+        "tasks",
+        "technology"
+      ],
+      "releaseDate": "2019-01-08",
+      "content": {
+        "dateAdded": "2019-01-08T14:14:54.431Z",
+        "captions": [],
+        "duration": 1528,
+        "videos": [
+          {
+            "url": "https://f002.backblazeb2.com/file/vidxstream/_YPTuniqid_5c3a2231047cd6.01393860_HD.mp4",
             "quality": "HD",
             "videoType": "MP4"
           }
